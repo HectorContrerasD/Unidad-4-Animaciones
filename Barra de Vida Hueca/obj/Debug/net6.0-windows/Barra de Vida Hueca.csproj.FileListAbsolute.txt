@@ -1,0 +1,42 @@
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\bin\Debug\net6.0-windows\Barra de Vida Hueca.exe
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\bin\Debug\net6.0-windows\Barra de Vida Hueca.deps.json
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\bin\Debug\net6.0-windows\Barra de Vida Hueca.runtimeconfig.json
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\bin\Debug\net6.0-windows\Barra de Vida Hueca.dll
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\bin\Debug\net6.0-windows\Barra de Vida Hueca.pdb
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca.csproj.AssemblyReference.cache
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\App.g.cs
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca_MarkupCompile.cache
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca_MarkupCompile.lref
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca.g.resources
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca.AssemblyInfoInputs.cache
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca.AssemblyInfo.cs
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca.csproj.CoreCompileInputs.cache
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca.dll
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\refint\Barra de Vida Hueca.dll
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca.pdb
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca.genruntimeconfig.cache
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\ref\Barra de Vida Hueca.dll
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\bin\Debug\net6.0-windows\Barra de Vida Hueca.exe
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\bin\Debug\net6.0-windows\Barra de Vida Hueca.deps.json
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\bin\Debug\net6.0-windows\Barra de Vida Hueca.runtimeconfig.json
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\bin\Debug\net6.0-windows\Barra de Vida Hueca.dll
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\bin\Debug\net6.0-windows\Barra de Vida Hueca.pdb
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca.csproj.AssemblyReference.cache
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\App.g.cs
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca_MarkupCompile.cache
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca_MarkupCompile.lref
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\MainWindow.baml
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca.g.resources
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca.GeneratedMSBuildEditorConfig.editorconfig
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca.AssemblyInfoInputs.cache
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca.AssemblyInfo.cs
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca.csproj.CoreCompileInputs.cache
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca.dll
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\refint\Barra de Vida Hueca.dll
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca.pdb
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\Barra de Vida Hueca.genruntimeconfig.cache
+F:\Escuela\Graficacion\Unidad 4\Unidad 4\Barra de Vida Hueca\obj\Debug\net6.0-windows\ref\Barra de Vida Hueca.dll

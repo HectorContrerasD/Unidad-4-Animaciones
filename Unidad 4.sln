@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animaciones", "Animaciones\Animaciones.csproj", "{EF37037F-B605-46E1-B1DD-B393A7C3AE02}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventoClick", "EventoClick\EventoClick.csproj", "{9ABAD296-E2FA-46D7-987C-6161CF695B1B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foco", "Foco\Foco.csproj", "{8ACA8D77-E877-4DD2-A636-0048777DAA6E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pavo", "Pavo\Pavo.csproj", "{99C14E8C-4668-4432-B9D8-3BE6F9B132A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Railete", "Railete\Railete.csproj", "{0682E645-EF02-49B1-A660-05AAC1BF24C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elipses", "Elipses\Elipses.csproj", "{7E4A524E-B451-4C26-B8AC-D441B645ADC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barra de Vida Hueca", "Barra de Vida Hueca\Barra de Vida Hueca.csproj", "{34396060-8CC2-4D55-BDAD-6065A3A8AAC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF37037F-B605-46E1-B1DD-B393A7C3AE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF37037F-B605-46E1-B1DD-B393A7C3AE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF37037F-B605-46E1-B1DD-B393A7C3AE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF37037F-B605-46E1-B1DD-B393A7C3AE02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ABAD296-E2FA-46D7-987C-6161CF695B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABAD296-E2FA-46D7-987C-6161CF695B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABAD296-E2FA-46D7-987C-6161CF695B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABAD296-E2FA-46D7-987C-6161CF695B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ACA8D77-E877-4DD2-A636-0048777DAA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ACA8D77-E877-4DD2-A636-0048777DAA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ACA8D77-E877-4DD2-A636-0048777DAA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ACA8D77-E877-4DD2-A636-0048777DAA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99C14E8C-4668-4432-B9D8-3BE6F9B132A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C14E8C-4668-4432-B9D8-3BE6F9B132A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C14E8C-4668-4432-B9D8-3BE6F9B132A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C14E8C-4668-4432-B9D8-3BE6F9B132A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0682E645-EF02-49B1-A660-05AAC1BF24C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0682E645-EF02-49B1-A660-05AAC1BF24C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0682E645-EF02-49B1-A660-05AAC1BF24C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0682E645-EF02-49B1-A660-05AAC1BF24C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4A524E-B451-4C26-B8AC-D441B645ADC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4A524E-B451-4C26-B8AC-D441B645ADC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4A524E-B451-4C26-B8AC-D441B645ADC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4A524E-B451-4C26-B8AC-D441B645ADC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34396060-8CC2-4D55-BDAD-6065A3A8AAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34396060-8CC2-4D55-BDAD-6065A3A8AAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34396060-8CC2-4D55-BDAD-6065A3A8AAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34396060-8CC2-4D55-BDAD-6065A3A8AAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED50988E-8291-4D87-9CCB-96A7888AF773}
+	EndGlobalSection
+EndGlobal

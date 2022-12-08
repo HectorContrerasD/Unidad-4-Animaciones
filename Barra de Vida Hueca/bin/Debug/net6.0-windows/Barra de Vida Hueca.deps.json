@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Barra de Vida Hueca/1.0.0": {
+        "runtime": {
+          "Barra de Vida Hueca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Barra de Vida Hueca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

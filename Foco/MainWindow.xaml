@@ -1,0 +1,59 @@
+﻿<Window x:Class="Foco.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Foco"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="650">
+    <Canvas>
+        <Path Stroke="Black"   StrokeThickness="5" Data="M240,303 A125,125 0 1 1 400,303 Q400,325 390,345 L255,345 Q240,325 240,303 Z"></Path>
+        <Path Stroke="Black" x:Name="foco"  StrokeThickness="5" Data="M240,303 A125,125 0 1 1 400,303 Q400,325 390,345 L255,345 Q240,325 240,303 Z">
+            <Path.Fill>
+                <SolidColorBrush Color="White" x:Name="color">
+                </SolidColorBrush>
+            </Path.Fill>
+            <Path.Triggers>
+                <EventTrigger RoutedEvent="MouseLeftButtonDown">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation
+                                Storyboard.TargetName="foco"
+                                Storyboard.TargetProperty="Opacity"
+                                From="0"
+                                To="1"
+                                Duration="0:0:0.1"
+                                ></DoubleAnimation>
+                            <ColorAnimation Storyboard.TargetProperty="Color"
+                                            Storyboard.TargetName="color"
+                                            Duration="0:0:0.1"
+                                            From="White"
+                                            To="Yellow"></ColorAnimation>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+                <EventTrigger RoutedEvent="MouseRightButtonDown">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation
+                                Storyboard.TargetName="foco"
+                                Storyboard.TargetProperty="Opacity"
+                                From="1"
+                                To="0"
+                                Duration="0:0:.2"
+                                ></DoubleAnimation>
+                            <ColorAnimation Storyboard.TargetProperty="Color"
+                                            Storyboard.TargetName="color"
+                                            Duration="0:0:.2"
+                                            From="Yellow"
+                                            To="White"></ColorAnimation>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Path.Triggers>
+        </Path>
+        <Path Stroke="Black" StrokeThickness="3" Fill="Transparent" Canvas.Left="12" Data="M280,345 280,240 A3,5 0 1 1 295,240 A10,10 0 0 0 320,240 A3,5 0 1 1 335,240 L335,345Z " ></Path>
+        <Rectangle Width="155" Height="60" StrokeThickness="5" RadiusX="10" Fill="DimGray" Stroke="Black" RadiusY="5" Canvas.Left="244" Canvas.Top="345" HorizontalAlignment="Left" VerticalAlignment="Center"></Rectangle>
+        <Rectangle Width="135" Height="17" StrokeThickness="5" RadiusX="10" Fill="Black" Stroke="Black" RadiusY="25" Canvas.Left="255" Canvas.Top="400" HorizontalAlignment="Left" VerticalAlignment="Top"></Rectangle>
+    </Canvas>
+</Window>

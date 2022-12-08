@@ -1,0 +1,23 @@
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\bin\Debug\net6.0-windows\Animaciones.exe
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\bin\Debug\net6.0-windows\Animaciones.deps.json
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\bin\Debug\net6.0-windows\Animaciones.runtimeconfig.json
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\bin\Debug\net6.0-windows\Animaciones.dll
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\bin\Debug\net6.0-windows\Animaciones.pdb
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\obj\Debug\net6.0-windows\Animaciones.csproj.AssemblyReference.cache
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\obj\Debug\net6.0-windows\App.g.cs
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\obj\Debug\net6.0-windows\Animaciones_MarkupCompile.cache
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\obj\Debug\net6.0-windows\Animaciones_MarkupCompile.lref
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\obj\Debug\net6.0-windows\Animaciones.g.resources
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\obj\Debug\net6.0-windows\Animaciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\obj\Debug\net6.0-windows\Animaciones.AssemblyInfoInputs.cache
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\obj\Debug\net6.0-windows\Animaciones.AssemblyInfo.cs
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\obj\Debug\net6.0-windows\Animaciones.csproj.CoreCompileInputs.cache
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\obj\Debug\net6.0-windows\Animaciones.dll
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\obj\Debug\net6.0-windows\refint\Animaciones.dll
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\obj\Debug\net6.0-windows\Animaciones.pdb
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\obj\Debug\net6.0-windows\Animaciones.genruntimeconfig.cache
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\obj\Debug\net6.0-windows\ref\Animaciones.dll
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\obj\Debug\net6.0-windows\Evento click.g.cs
+D:\Escuela\Graficacion\Unidad 4\Unidad 4\Animaciones\obj\Debug\net6.0-windows\Evento click.baml
